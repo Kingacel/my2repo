@@ -1,2 +1,2 @@
 # my2repo
-this is my second repository 
+this is a c progm  to print  hello world 
